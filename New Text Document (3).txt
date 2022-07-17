@@ -1,0 +1,5 @@
+body
+{
+ background-color:#5CB3FF;
+ color:#FFFFFF;
+}

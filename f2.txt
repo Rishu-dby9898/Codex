@@ -1,0 +1,37 @@
+<h1>Browser Title Bars in CSS</h1>
+<div class="browser">
+  <div class="title-bar">
+    <div class="btns">
+      <div class="close"></div>
+      <div class="min"></div>      
+      <div class="max"></div> 
+    </div>
+    <div class="location-bar"></div>
+  </div>
+</div>
+<div class="browser small">
+  <div class="title-bar">
+    <div class="btns">
+      <div class="close"></div>
+      <div class="min"></div>      
+      <div class="max"></div> 
+    </div>
+    <div class="location-bar"></div>
+  </div>  
+</div>
+<div class="browser tiny">
+  <div class="title-bar">
+    <div class="btns">
+      <div class="close"></div>
+      <div class="min"></div>      
+      <div class="max"></div> 
+    </div>
+    <div class="location-bar"></div>
+  </div>  
+</div>
+<div class="browser mobile">
+  <div class="title-bar">
+    <div class="location-bar"></div>
+		<div class="control">☰</div>
+  </div>  
+</div>
